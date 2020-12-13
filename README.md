@@ -1,2 +1,2 @@
 # Dementia
-Dementia + machine learning
+cognitive health + machine learning
